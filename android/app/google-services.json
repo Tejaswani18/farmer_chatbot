@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936392936508",
+    "project_id": "farmersupportchatbot",
+    "storage_bucket": "farmersupportchatbot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936392936508:android:b33af838537be48fe08739",
+        "android_client_info": {
+          "package_name": "com.example.farmer_chatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4_021qXEyZezDorijhzIbBs48ZFBdx3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
